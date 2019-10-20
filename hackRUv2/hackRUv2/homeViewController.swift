@@ -12,11 +12,14 @@ class homeViewController: UIViewController {
 
     @IBOutlet weak var timeLable: UILabel!
 
-   
+    var passedA = ""
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
-      
+        
+    
+     
         
         Timer.scheduledTimer(withTimeInterval: 0.1, repeats: true) {
             // this is the code that the timer runs every second
@@ -44,7 +47,6 @@ class homeViewController: UIViewController {
     }
     
    
-    
     
 
     /*

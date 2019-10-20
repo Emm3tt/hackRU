@@ -19,6 +19,7 @@
 		05234A71235B7B860071BCFA /* commuteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05234A70235B7B860071BCFA /* commuteViewController.swift */; };
 		05234A73235B7B9B0071BCFA /* statsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05234A72235B7B9B0071BCFA /* statsViewController.swift */; };
 		05234A75235B8B000071BCFA /* inputViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05234A74235B8B000071BCFA /* inputViewController.swift */; };
+		05234A77235B94F60071BCFA /* CustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05234A76235B94F60071BCFA /* CustomCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		05234A70235B7B860071BCFA /* commuteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = commuteViewController.swift; sourceTree = "<group>"; };
 		05234A72235B7B9B0071BCFA /* statsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = statsViewController.swift; sourceTree = "<group>"; };
 		05234A74235B8B000071BCFA /* inputViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = inputViewController.swift; sourceTree = "<group>"; };
+		05234A76235B94F60071BCFA /* CustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 				05234A70235B7B860071BCFA /* commuteViewController.swift */,
 				05234A72235B7B9B0071BCFA /* statsViewController.swift */,
 				05234A74235B8B000071BCFA /* inputViewController.swift */,
+				05234A76235B94F60071BCFA /* CustomCell.swift */,
 			);
 			path = hackRUv2;
 			sourceTree = "<group>";
@@ -277,6 +280,7 @@
 				05234A75235B8B000071BCFA /* inputViewController.swift in Sources */,
 				05234A36235B718C0071BCFA /* SceneDelegate.swift in Sources */,
 				05234A71235B7B860071BCFA /* commuteViewController.swift in Sources */,
+				05234A77235B94F60071BCFA /* CustomCell.swift in Sources */,
 				05234A6F235B7B770071BCFA /* homeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
